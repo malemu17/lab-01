@@ -1,9 +1,4 @@
-.container {
-    
-    width:480px;
-    margin: 0px auto;
-    text-align: center;
-}
+
 
 /*@media all and (max-width: 480px) {
     .a .b .c .d .e .f .g .h .i {
@@ -46,8 +41,7 @@
 }
 
 .e {
-    float:left;
-    clear:both;
+   
     width:240px;
     height:250px;
     background-color:rgb(194, 228, 72);
@@ -56,23 +50,21 @@
 .f {
     width:240px;
     height:250px;
-    float:right;
-    clear:both;
     background-color:rgb(104, 29, 75);
     margin:2.03%;
 }
 
 .g {
-    float:left;
-    clear:both;
+    
+    
     width:240px;
     height:250px;
     background-color:rgb(65, 209, 89);
     margin:2.03%;
 }
 .h {
-    float:right;
-    clear:both;
+    
+    
     width:240px;
     height:250px;
     background-color:yellow;
