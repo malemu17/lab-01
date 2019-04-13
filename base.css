@@ -1,0 +1,26 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background:black;
+    
+        font-family: 'Berkshire Swash', cursive;
+        width:480px;
+        margin: 0px auto;
+        text-align: center;
+
+    
+}
+
+div {
+    border: solid 2px rgb(159, 159, 173);
+    text-align: center;
+    float:left ;
+}
+
+
+
+
+
