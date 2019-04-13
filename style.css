@@ -12,6 +12,9 @@
       margin:2.03%;
     }
   }*/
+  .container div  {
+      float:left;
+  }
   
 .a {
     background-color:green;
