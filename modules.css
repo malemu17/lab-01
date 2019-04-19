@@ -1,0 +1,196 @@
+
+.a {
+    background-color:green;
+    
+    width:480px;
+    height:75px
+}
+
+.b {
+
+    width:480px;
+    height:150px;
+    background-color:pink;
+   
+}
+
+.c {
+    width:480px;
+    height:125px;
+    background-color:gray;
+   
+}
+
+.d {
+    width:480px;
+    height:125px;
+    background-color:rgb(192, 232, 255);
+    
+}
+
+.e {
+   
+    width:240px;
+    height:250px;
+    background-color:rgb(194, 228, 72);
+    
+}
+.f {
+    width:240px;
+    height:250px;
+    background-color:rgb(104, 29, 75);
+    
+}
+
+.g {
+    
+    
+    width:240px;
+    height:250px;
+    background-color:rgb(65, 209, 89);
+  
+}
+.h {
+    
+    
+    width:240px;
+    height:250px;
+    background-color:yellow;
+    
+}
+.i {
+    width:480px;
+    height:80px;
+    background-color:blue;
+   
+} 
+
+@media only screen and (min-width: 768px) {
+
+    .a {
+  
+      width: 960px;
+  
+      height: 100px;
+  
+      line-height: 100px;
+  
+      background-color: rgb(204, 140, 57);
+  
+    }
+  
+    
+  
+    .b {
+  
+      width: 200px;
+  
+      height: 600px;
+  
+      line-height: 600px;
+  
+      background-color: rgb(61, 167, 108);
+  
+    }
+  
+    
+  
+    .c {
+  
+      width: 380px;
+  
+      height: 200px;
+  
+      line-height: 200px;
+  
+      background-color: rgb(236, 227, 227);
+  
+    }
+  
+    
+  
+    .d {
+  
+      width: 380px;
+  
+      height: 200px;
+  
+      line-height: 200px;
+  
+      background-color: rgb(75, 75, 55);
+  
+    }
+  
+    
+  
+    .e {
+  
+      
+  
+      width: 190px;
+  
+      height: 250px;
+  
+      line-height: 250px;
+  
+      background-color: rgb(206, 33, 62);
+  
+    }
+  
+    
+  
+    .f {
+  
+      width: 190px;
+  
+      height: 250px;
+  
+      line-height: 250px;
+  
+      background-color: rgb(43, 31, 207);
+  
+    }
+  
+    
+  
+    .g {
+  
+      width: 190px;
+  
+      height: 250px;
+  
+      line-height: 250px;
+  
+      background-color: rgb(245, 227, 245);
+  
+    }
+  
+    
+  
+    .h {
+  
+      width: 190px;
+  
+      height: 250px;
+  
+      line-height: 250px;
+  
+      background-color: rgb(190, 226, 29);
+  
+    }
+  
+    
+  
+    .i {
+  
+      width: 760px;
+  
+      height: 150px;
+  
+      line-height: 150px;
+  
+      background-color: rgb(125, 154, 197);
+  
+    }
+  
+  }
